@@ -8,7 +8,7 @@ A Color-to-grayscale Android app using Android NDK r12b under Android Studio 2.1
 
 ### Android Studio 2.1.2
 Gradle version 2.10
-Gradle Experimental Plugin 0.7.0
+Gradle Android Plugin 2.1.2
 
 ### JDK 1.8.0
 Android development requires JDK environment.
